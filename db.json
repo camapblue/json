@@ -1,6 +1,24 @@
 {
     "showSecretHello": {
         "announcement": "Xin chào" 
-    }
+    },
+    "getCountries": [
+        {
+            "name": "VietNam",
+            "flag":""
+        },
+        {
+            "name": "VietNam",
+            "flag":""
+        },
+        {
+            "name": "VietNam",
+            "flag":""
+        },
+        {
+            "name": "VietNam",
+            "flag":""
+        }
+    ]
 }
   
