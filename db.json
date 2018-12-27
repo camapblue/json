@@ -1,98 +1,101 @@
 {
     "showSecretHello": {
-        "announcement": "Xin chào" 
-    },
-    "getCountries": [
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
-        },
-        {
-            "name": "VietNam",
-            "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "date":"12 Octorber 2018"
+        "data": {
+          "announcement": "Xin chào"
         }
-    ]
+    },
+    "getCountries": {
+        "data": [
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          },
+          {
+              "name": "VietNam",
+              "flag":"https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+              "date":"12 Octorber 2018"
+          }
+      ]
+    }
 }
-  
