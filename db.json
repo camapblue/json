@@ -3,7 +3,7 @@
         "announcement": "Xin chào"
     },
     "getCountries": {
-        "data": [
+        "countries": [
             {
                 "name": "VietNam",
                 "flag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
