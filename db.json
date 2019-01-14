@@ -18,7 +18,8 @@
             "securityLevel": "High",
             "legislationLevel": "High",
             "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "@nodes": []
+            "@nodes": [],
+            "nl_generalInfo": "GENERAL INFO TEST"
         },
         {
             "@name": "33",
@@ -34,7 +35,8 @@
             "securityLevel": "High",
             "legislationLevel": "High",
             "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "@nodes": []
+            "@nodes": [],
+            "nl_generalInfo": "GENERAL INFO TEST"
         }
     ]
 }
