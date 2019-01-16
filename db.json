@@ -40,18 +40,20 @@
         }
     ]
   },
-  "country/84": [{
-    "healthLevel" : "High",
-    "fr_countryName" : "Vn",
-    "continent" : "Africa",
-    "securityLevel" : "High",
-    "climateLevel" : "High",
-    "@name" : "84",
-    "legislationLevel" : "High",
-    "countryFlag" : "jcr:e28ca2ff-09c3-4c9c-b3aa-34e9a5f2deba",
-    "linkInformation" : "https://google.com.vn",
-    "nl_countryName" : "Vn",
-    "mgnl:lastModified" : 1547535344519,
-    "transportLevel" : "High"
-  }]
+  "country": {
+        "country": [{
+        "healthLevel" : "High",
+        "fr_countryName" : "Vn",
+        "continent" : "Africa",
+        "securityLevel" : "High",
+        "climateLevel" : "High",
+        "@name" : "84",
+        "legislationLevel" : "High",
+        "countryFlag" : "jcr:e28ca2ff-09c3-4c9c-b3aa-34e9a5f2deba",
+        "linkInformation" : "https://google.com.vn",
+        "nl_countryName" : "Vn",
+        "mgnl:lastModified" : 1547535344519,
+        "transportLevel" : "High"
+    }]
+  }
 }
