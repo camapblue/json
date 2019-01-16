@@ -3,7 +3,7 @@
       "announcement": "Xin chào"
   },
   "countries": {
-    "results": [
+    "countries": [
         {
             "@name": "84",
             "@path": "/84",
@@ -39,5 +39,19 @@
             "nl_generalInfo": "GENERAL INFO TEST"
         }
     ]
-}
+  },
+  "country": [{
+    "healthLevel" : "High",
+    "fr_countryName" : "Vn",
+    "continent" : "Africa",
+    "securityLevel" : "High",
+    "climateLevel" : "High",
+    "@name" : "84",
+    "legislationLevel" : "High",
+    "countryFlag" : "jcr:e28ca2ff-09c3-4c9c-b3aa-34e9a5f2deba",
+    "linkInformation" : "https://google.com.vn",
+    "nl_countryName" : "Vn",
+    "mgnl:lastModified" : 1547535344519,
+    "transportLevel" : "High"
+  }]
 }
