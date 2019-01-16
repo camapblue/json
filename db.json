@@ -22,7 +22,7 @@
             "nl_generalInfo": "GENERAL INFO TEST"
         },
         {
-            "@name": "33",
+            "@name": "84",
             "@path": "/33",
             "@id": "9699dac1-a350-4e77-9680-9d1c82654cc4",
             "@nodeType": "mgnl:country",
@@ -40,7 +40,7 @@
         }
     ]
   },
-  "country": [{
+  "country/84": [{
     "healthLevel" : "High",
     "fr_countryName" : "Vn",
     "continent" : "Africa",
