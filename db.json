@@ -1,29 +1,63 @@
 {
-  "countries": {
-    "countries": [
+  "trips": {
+    "trips": [
       {
-        "@name": "84",
-        "transportLevel": "High",
-        "nl_countryName": "Vietnam",
-        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-        "nl_generalInfo": "GENERAL INFO TEST"
+        "fromDate": 1547535344519,
+        "toDate": 1547535344519,
+        "destinations": [
+          {
+            "countryCode": "84"
+          },
+          {
+            "countryCode": "33"
+          }
+        ],
+        "companions": [
+          {
+            "id": "12",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          {
+            "id": "13",
+            "firstName": "Nicolas",
+            "lastName": "Cage"
+          }
+        ],
+        "contact": {
+          "id": "123",
+          "firstName": "Tom",
+          "lastName": "Cruise"
+        }
       },
       {
-        "@name": "33",
-        "transportLevel": "High",
-        "nl_countryName": "France",
-        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-        "nl_generalInfo": "GENERAL INFO TEST"
-      }
-    ]
-  },
-  "country": {
-    "country": [
-      {
-        "@name": "84",
-        "nl_countryName": "Vn",
-        "mgnl:lastModified": 1547535344519,
-        "transportLevel": "High"
+        "fromDate": 1547535344519,
+        "toDate": 1547535344519,
+        "destinations": [
+          {
+            "countryCode": "33"
+          },
+          {
+            "countryCode": "84"
+          }
+        ],
+        "companions": [
+          {
+            "id": "15",
+            "firstName": "Cristiano",
+            "lastName": "Ronaldo"
+          },
+          {
+            "id": "16",
+            "firstName": "Leoniel",
+            "lastName": "Messi"
+          }
+        ],
+        "contact": {
+          "id": "123",
+          "firstName": "Jennifer",
+          "lastName": "Lawrence"
+        }
       }
     ]
   },
