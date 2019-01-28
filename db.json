@@ -1,59 +1,184 @@
 {
   "showSecretHello": {
-      "announcement": "Xin chào"
+    "announcement": "Xin chào"
   },
   "countries": {
     "countries": [
-        {
-            "@name": "84",
-            "@path": "/84",
-            "@id": "ee06dae6-8b6a-403d-98ae-957ccb55957b",
-            "@nodeType": "mgnl:country",
-            "climateLevel": "High",
-            "healthLevel": "High",
-            "continent": "Asia",
-            "fr_countryName": "Vietnam",
-            "transportLevel": "High",
-            "nl_countryName": "Vietnam",
-            "securityLevel": "High",
-            "legislationLevel": "High",
-            "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "@nodes": [],
-            "nl_generalInfo": "GENERAL INFO TEST"
-        },
-        {
-            "@name": "84",
-            "@path": "/33",
-            "@id": "9699dac1-a350-4e77-9680-9d1c82654cc4",
-            "@nodeType": "mgnl:country",
-            "climateLevel": "High",
-            "healthLevel": "High",
-            "continent": "Europe",
-            "fr_countryName": "France",
-            "transportLevel": "High",
-            "nl_countryName": "France",
-            "securityLevel": "High",
-            "legislationLevel": "High",
-            "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-            "@nodes": [],
-            "nl_generalInfo": "GENERAL INFO TEST"
-        }
+      {
+        "@name": "84",
+        "@path": "/84",
+        "@id": "ee06dae6-8b6a-403d-98ae-957ccb55957b",
+        "@nodeType": "mgnl:country",
+        "climateLevel": "High",
+        "healthLevel": "High",
+        "continent": "Asia",
+        "fr_countryName": "Vietnam",
+        "transportLevel": "High",
+        "nl_countryName": "Vietnam",
+        "securityLevel": "High",
+        "legislationLevel": "High",
+        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+        "@nodes": [],
+        "nl_generalInfo": "GENERAL INFO TEST"
+      },
+      {
+        "@name": "33",
+        "@path": "/33",
+        "@id": "9699dac1-a350-4e77-9680-9d1c82654cc4",
+        "@nodeType": "mgnl:country",
+        "climateLevel": "High",
+        "healthLevel": "High",
+        "continent": "Europe",
+        "fr_countryName": "France",
+        "transportLevel": "High",
+        "nl_countryName": "France",
+        "securityLevel": "High",
+        "legislationLevel": "High",
+        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+        "@nodes": [],
+        "nl_generalInfo": "GENERAL INFO TEST"
+      }
     ]
   },
   "country": {
-        "country": [{
-        "healthLevel" : "High",
-        "fr_countryName" : "Vn",
-        "continent" : "Africa",
-        "securityLevel" : "High",
-        "climateLevel" : "High",
-        "@name" : "84",
-        "legislationLevel" : "High",
-        "countryFlag" : "jcr:e28ca2ff-09c3-4c9c-b3aa-34e9a5f2deba",
-        "linkInformation" : "https://google.com.vn",
-        "nl_countryName" : "Vn",
-        "mgnl:lastModified" : 1547535344519,
-        "transportLevel" : "High"
-    }]
+    "country": [
+      {
+        "id": 1,
+        "healthLevel": "High",
+        "fr_countryName": "Vn",
+        "continent": "Africa",
+        "securityLevel": "High",
+        "climateLevel": "High",
+        "@name": "84",
+        "legislationLevel": "High",
+        "countryFlag": "jcr:e28ca2ff-09c3-4c9c-b3aa-34e9a5f2deba",
+        "linkInformation": "https://google.com.vn",
+        "nl_countryName": "Vn",
+        "mgnl:lastModified": 1547535344519,
+        "transportLevel": "High"
+      }
+    ]
+  },
+  "trips": {
+    "trips": [
+      {
+        "tripId": "2342",
+        "fromDate": 1547535344519,
+        "toDate": 1547535344519,
+        "destinations": [
+          {
+            "countryCode": "84"
+          },
+          {
+            "countryCode": "33"
+          }
+        ],
+        "companions": [
+          {
+            "id": "12",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          {
+            "id": "13",
+            "firstName": "Nicolas",
+            "lastName": "Cage"
+          }
+        ],
+        "contact": {
+          "id": "123",
+          "firstName": "Tom",
+          "lastName": "Cruise"
+        }
+      },
+      {
+        "tripId": "2342",
+        "fromDate": 1547535344519,
+        "toDate": 1547535344519,
+        "destinations": [
+          {
+            "countryCode": "33"
+          },
+          {
+            "countryCode": "84"
+          }
+        ],
+        "companions": [
+          {
+            "id": "15",
+            "firstName": "Cristiano",
+            "lastName": "Ronaldo"
+          },
+          {
+            "id": "16",
+            "firstName": "Leoniel",
+            "lastName": "Messi"
+          }
+        ],
+        "contact": {
+          "id": "123",
+          "firstName": "Jennifer",
+          "lastName": "Lawrence"
+        }
+      }
+    ]
+  },
+  "companions": {
+    "companions": [
+      {
+        "id": "ee06dae6-8b6a-403d-98ae-a2345678901z",
+        "firstName": "Van Peperpotte",
+        "lastName": "Virigine",
+        "mobile": "+32479653574",
+        "email": "virigine.vanp@gmail.com",
+        "userId": "aabbccdd-1122-3344-5566-1234567890az",
+        "createdAt": "2019-01-21T06:19:47+00:00",
+        "updatedAt": "2019-01-21T06:19:47+00:00"
+      },
+      {
+        "id": "ee06dae6-8b6a-403d-98ae-w2345678901c",
+        "firstName": "Peter",
+        "lastName": "Pan",
+        "mobile": "+32090987654",
+        "email": "peter.pan@gmail.com",
+        "userId": "aabbccdd-1122-3344-5566-1234567890az",
+        "createdAt": "2018-12-20T06:09:47+00:00",
+        "updatedAt": "2018-12-21T06:19:47+00:00"
+      },
+      {
+        "id": "ee06dae6-8b6a-403d-98ae-a2345678777z",
+        "firstName": "Oga",
+        "lastName": "Ran",
+        "mobile": "+32479653574",
+        "email": "virigine.vanp@gmail.com",
+        "userId": "aabbccdd-1122-3344-5566-1234567890az",
+        "createdAt": "2019-01-21T06:19:47+00:00",
+        "updatedAt": "2019-01-21T06:19:47+00:00"
+      }
+    ]
+  },
+  "emergencyContacts": {
+    "emergencyContacts": [
+      {
+        "id": "ee06dae6-8b6a-403d-98ae-a2344678901z",
+        "firstName": "Filippo",
+        "lastName": "Inzaghi",
+        "mobile": "+32479653574",
+        "email": "virigine.vanp@gmail.com",
+        "userId": "aabbccdd-1122-3344-5566-1234567890az",
+        "createdAt": "2019-01-10T06:09:47+00:00",
+        "updatedAt": "2019-01-10T06:09:47+00:00"
+      },
+      {
+        "id": "ee06dae6-8b6a-403d-98ae-w1145678901c",
+        "firstName": "David",
+        "lastName": "Jack",
+        "mobile": "+32090987654",
+        "email": "peter.pan@gmail.com",
+        "userId": "aabbccdd-1122-3344-5566-1234567890az",
+        "createdAt": "2019-01-11T06:19:47+00:00",
+        "updatedAt": "2019-01-11T06:19:47+00:00"
+      }
+    ]
   }
 }
