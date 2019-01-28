@@ -27,68 +27,6 @@
       }
     ]
   },
-  "trips": {
-    "trips": [
-      {
-        "fromDate": 1547535344519,
-        "toDate": 1547535344519,
-        "destinations": [
-          {
-            "countryCode": "84"
-          },
-          {
-            "countryCode": "33"
-          }
-        ],
-        "companions": [
-          {
-            "id": "12",
-            "firstName": "Will",
-            "lastName": "Smith"
-          },
-          {
-            "id": "13",
-            "firstName": "Nicolas",
-            "lastName": "Cage"
-          }
-        ],
-        "contact": {
-          "id": "123",
-          "firstName": "Tom",
-          "lastName": "Cruise"
-        }
-      },
-      {
-        "fromDate": 1547535344519,
-        "toDate": 1547535344519,
-        "destinations": [
-          {
-            "countryCode": "33"
-          },
-          {
-            "countryCode": "84"
-          }
-        ],
-        "companions": [
-          {
-            "id": "15",
-            "firstName": "Cristiano",
-            "lastName": "Ronaldo"
-          },
-          {
-            "id": "16",
-            "firstName": "Leoniel",
-            "lastName": "Messi"
-          }
-        ],
-        "contact": {
-          "id": "123",
-          "firstName": "Jennifer",
-          "lastName": "Lawrence"
-        }
-      }
-    ]
-  },
   "companions": {
     "companions": [
       {
