@@ -1,22 +1,4 @@
 {
-  "countries": {
-    "countries": [
-      {
-        "@name": "84",
-        "transportLevel": "High",
-        "nl_countryName": "Vietnam",
-        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-        "nl_generalInfo": "GENERAL INFO TEST"
-      },
-      {
-        "@name": "33",
-        "transportLevel": "High",
-        "nl_countryName": "France",
-        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
-        "nl_generalInfo": "GENERAL INFO TEST"
-      }
-    ]
-  },
   "trips": {
     "trips": [
       {
