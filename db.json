@@ -93,7 +93,7 @@
       "updatedAt": 1545313825
     }
   ],
-  "emergencyContacts": {
+  
     "emergencyContacts": [
       {
         "id": "6663",
@@ -114,5 +114,5 @@
         "updatedAt": 1547535344519
       }
     ]
-  }
+  
 }
