@@ -143,7 +143,7 @@
         "mobile": "479653574",
         "email": "filippo.inzaghi@gmail.com",
         "userId": "aabbccdd-2233-3344-5566-1234567890az",
-        "nrn": 12345678958,
+        "nrn": "12345678958",
         "createdAt": 1548432505,
         "updatedAt": 1548436105
       },
@@ -155,7 +155,7 @@
         "mobile": "479653574",
         "email": "harrywon@gmail.com",
         "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "nrn": 12345678958,
+        "nrn": "12345678958",
         "createdAt": 1548032505,
         "updatedAt": 1548036105
       }
@@ -170,7 +170,7 @@
       "mobile": "479653574",
       "email": "filippo.inzaghi@gmail.com",
       "userId": "aabbccdd-2233-3344-5566-1234567890az",
-      "nrn": 12345678958,
+      "nrn": "12345678958",
       "createdAt": 1548432505,
       "updatedAt": 1548436105
     },
@@ -182,7 +182,7 @@
       "mobile": "479653574",
       "email": "harrywon@gmail.com",
       "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "nrn": 12345678958,
+      "nrn": "12345678958",
       "createdAt": 1548032505,
       "updatedAt": 1548036105
     }
