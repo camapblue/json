@@ -61,34 +61,38 @@
       }
     ]
   },
-  "companions": {
-    "companions": [
-      {
-        "id": "2343",
-        "firstName": "Van Peperpotte",
-        "lastName": "Virigine",
-        "mobile": "+32479653574",
-        "email": "virigine.vanp@gmail.com",
-        "createdAt": "2019-01-21T06:19:47+00:00"
-      },
-      {
-        "id": "43",
-        "firstName": "Peter",
-        "lastName": "Pan",
-        "mobile": "+32090987654",
-        "email": "peter.pan@gmail.com",
-        "createdAt": "2018-12-20T06:09:47+00:00"
-      },
-      {
-        "id": "4663",
-        "firstName": "Oga",
-        "lastName": "Ran",
-        "mobile": "+32479653574",
-        "email": "virigine.vanp@gmail.com",
-        "createdAt": "2019-01-21T06:19:47+00:00"
-      }
-    ]
-  },
+  "companions": [
+    {
+      "id": 1,
+      "firstName": "Van Peperpotte",
+      "lastName": "Virigine",
+      "mobile": "+32479653574",
+      "email": "virigine.vanp@gmail.com",
+      "userId": "aabbccdd-1122-3344-5566-1234567890az",
+      "createdAt": 1548432505,
+      "updatedAt": 1548436105
+    },
+    {
+      "id": 2,
+      "firstName": "Peter",
+      "lastName": "Pan",
+      "mobile": "+32090987654",
+      "email": "peter.pan@gmail.com",
+      "userId": "aabbccdd-1122-3344-5566-1234567890az",
+      "createdAt": 1547989705,
+      "updatedAt": 1547989705
+    },
+    {
+      "id": 3,
+      "firstName": "Oga",
+      "lastName": "Ran",
+      "mobile": "+32479653574",
+      "email": "virigine.vanp@gmail.com",
+      "userId": "aabbccdd-1122-3344-5566-1234567890az",
+      "createdAt": 1545313825,
+      "updatedAt": 1545313825
+    }
+  ],
   "emergencyContacts": {
     "emergencyContacts": [
       {
