@@ -186,5 +186,53 @@
       "createdAt": 1548032505,
       "updatedAt": 1548036105
     }
+  ],
+  "otherInformationList": {
+    "otherInformationList": [
+      {
+        "id": 1,
+        "title": "Infos pratiques",
+        "content": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.",
+        "createdAt": 1548432505,
+        "updatedAt": 1548436105
+      },
+      {
+        "id": 2,
+        "title": "Adresse ambassade Belge",
+        "content": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.",
+        "createdAt": 1548432505,
+        "updatedAt": 1548436105
+      },
+      {
+        "id": 3,
+        "title": "Documents requis",
+        "content": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.",
+        "createdAt": 1548432505,
+        "updatedAt": 1548436105
+      }
+    ]
+  },
+  "otherInformationDetail": [
+    {
+      "id": 1,
+      "title": "Infos pratiques",
+      "content": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.",
+      "createdAt": 1548432505,
+      "updatedAt": 1548436105
+    },
+    {
+      "id": 2,
+      "title": "Adresse ambassade Belge",
+      "content": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.",
+      "createdAt": 1548432505,
+      "updatedAt": 1548436105
+    },
+    {
+      "id": 3,
+      "title": "Documents requis",
+      "content": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.",
+      "createdAt": 1548432505,
+      "updatedAt": 1548436105
+    }
   ]
 }
