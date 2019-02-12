@@ -64,175 +64,51 @@
   "companions": {
     "companions": [
       {
-        "id": 1,
+        "id": "2343",
         "firstName": "Van Peperpotte",
         "lastName": "Virigine",
-        "callingCode": "+1",
-        "mobile": "479653574",
+        "mobile": "+32479653574",
         "email": "virigine.vanp@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
+        "createdAt": "2019-01-21T06:19:47+00:00"
       },
       {
-        "id": 2,
+        "id": "43",
         "firstName": "Peter",
         "lastName": "Pan",
-        "callingCode": "+84",
-        "mobile": "090987654",
+        "mobile": "+32090987654",
         "email": "peter.pan@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "createdAt": 1547989705,
-        "updatedAt": 1547989705
+        "createdAt": "2018-12-20T06:09:47+00:00"
       },
       {
-        "id": 3,
+        "id": "4663",
         "firstName": "Oga",
         "lastName": "Ran",
-        "callingCode": "+31",
-        "mobile": "479653574",
+        "mobile": "+32479653574",
         "email": "virigine.vanp@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "createdAt": 1545313825,
-        "updatedAt": 1545313825
+        "createdAt": "2019-01-21T06:19:47+00:00"
       }
     ]
   },
-  "companion": [
-    {
-      "id": 1,
-      "firstName": "Van Peperpotte",
-      "lastName": "Virigine",
-      "callingCode": "+1",
-      "mobile": "479653574",
-      "email": "virigine.vanp@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    },
-    {
-      "id": 2,
-      "firstName": "Peter",
-      "lastName": "Pan",
-      "callingCode": "+84",
-      "mobile": "090987654",
-      "email": "peter.pan@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "createdAt": 1547989705,
-      "updatedAt": 1547989705
-    },
-    {
-      "id": 3,
-      "firstName": "Oga",
-      "lastName": "Ran",
-      "callingCode": "+31",
-      "mobile": "479653574",
-      "email": "virigine.vanp@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "createdAt": 1545313825,
-      "updatedAt": 1545313825
-    }
-  ],
   "emergencyContacts": {
     "emergencyContacts": [
       {
-        "id": 1,
+        "id": "6663",
         "firstName": "Filippo",
         "lastName": "Inzaghi",
-        "callingCode": "+1",
-        "mobile": "479653574",
-        "email": "filippo.inzaghi@gmail.com",
-        "userId": "aabbccdd-2233-3344-5566-1234567890az",
-        "nrn": "12345678958",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
+        "mobile": "+32479653574",
+        "email": "virigine.vanp@gmail.com",
+        "createdAt": 1547535344519,
+        "updatedAt": 1547535344519
       },
       {
-        "id": 2,
-        "firstName": "Harry",
-        "lastName": "Won",
-        "callingCode": "+84",
-        "mobile": "479653574",
-        "email": "harrywon@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "nrn": "12345678958",
-        "createdAt": 1548032505,
-        "updatedAt": 1548036105
+        "id": "662263",
+        "firstName": "David",
+        "lastName": "Jack",
+        "mobile": "+32090987654",
+        "email": "peter.pan@gmail.com",
+        "createdAt": 1547535344519,
+        "updatedAt": 1547535344519
       }
     ]
-  },
-  "emergencyContact": [
-    {
-      "id": 1,
-      "firstName": "Filippo",
-      "lastName": "Inzaghi",
-      "callingCode": "+1",
-      "mobile": "479653574",
-      "email": "filippo.inzaghi@gmail.com",
-      "userId": "aabbccdd-2233-3344-5566-1234567890az",
-      "nrn": "12345678958",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    },
-    {
-      "id": 2,
-      "firstName": "Harry",
-      "lastName": "Won",
-      "callingCode": "+84",
-      "mobile": "479653574",
-      "email": "harrywon@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "nrn": "12345678958",
-      "createdAt": 1548032505,
-      "updatedAt": 1548036105
-    }
-  ],
-  "otherInformationList": {
-    "otherInformationList": [
-      {
-        "id": 1,
-        "title": "Infos pratiques",
-        "content": "<h1 itemprop=\"headline\" class=\"rtbf-article-main__title col-xs-12 col-md-8 www-col-full-width\">Allocations familiales wallonnes: 10 euros en plus pour les familles \"oubliées\"</h1><p>La directrice&nbsp;<span>générale faisant fonction de Famiwal,&nbsp;</span><span style=\"text-align:left;\">Françoise Abad Gonzalez, a annoncé que tous les paiements avaient été effectués ce matin. Et qu'en guise de compensation, toutes les familles préjudiciées&nbsp;vont recevoir 10 € de plus. \"<em>Nous avons ainsi entendu l'appel de la ministre</em>\", indique Françoise Abad Gonzalez. Ces 10 € représentent un \"<em>geste&nbsp;</em><em>symbolique</em>\" et non une indemnisation quelconque qui serait impossible à calculer : \"<em>Des familles touchent 800 €, d'autres le minimum. C'est un geste d'excuse</em>\". Les familles vont recevoir un courrier explicatif.&nbsp;</span>Famiwal s'est, par ailleurs, engagé à \"<em>tout mettre en oeuvre pour que ça ne se reproduise pas</em>\".</p><h3>Qui paiera ce \"dédommagement\"?</h3><p>Comme l'a expliqué Françoise Abad Gonzalez, ces 10 € par famille, soit 1,2 million d'euros proviendront du budget de Famiwal. Le budget total de cette structure publique est de 872 millions, <a href=\"https://vnexpress.net/\" target=\"_blank\">selon le président Charlier,</a>&nbsp;dont 28 millions servent au frais de fonctionnement. C'est donc de&nbsp;ces 28 millions que proviendra&nbsp;ce 1,2 million de dédommagement. La facture est donc, au final, publique, ce sont les Wallons et Wallonnes qui&nbsp;<em>in fine</em> paieront la facture.</p>",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
-      },
-      {
-        "id": 2,
-        "title": "Adresse ambassade Belge",
-        "content": "<h1>Adresse ambassade Belge</h1><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <a href=\"https://www.allure.com/\" target=\"_blank\">It has survived not only five centuries</a>, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
-      },
-      {
-        "id": 3,
-        "title": "Documents requis",
-        "content": "<h1>Documents requis</h1><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. <a href=\"https://www.proximus.be/\" target=\"_blank\">Various versions have evolved over the years</a>, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
-      }
-    ]
-  },
-  "otherInformationDetail": [
-    {
-      "id": 1,
-      "title": "Infos pratiques",
-      "content": "<h1 itemprop=\"headline\" class=\"rtbf-article-main__title col-xs-12 col-md-8 www-col-full-width\">Allocations familiales wallonnes: 10 euros en plus pour les familles \"oubliées\"</h1><p>La directrice&nbsp;<span>générale faisant fonction de Famiwal,&nbsp;</span><span style=\"text-align:left;\">Françoise Abad Gonzalez, a annoncé que tous les paiements avaient été effectués ce matin. Et qu'en guise de compensation, toutes les familles préjudiciées&nbsp;vont recevoir 10 € de plus. \"<em>Nous avons ainsi entendu l'appel de la ministre</em>\", indique Françoise Abad Gonzalez. Ces 10 € représentent un \"<em>geste&nbsp;</em><em>symbolique</em>\" et non une indemnisation quelconque qui serait impossible à calculer : \"<em>Des familles touchent 800 €, d'autres le minimum. C'est un geste d'excuse</em>\". Les familles vont recevoir un courrier explicatif.&nbsp;</span>Famiwal s'est, par ailleurs, engagé à \"<em>tout mettre en oeuvre pour que ça ne se reproduise pas</em>\".</p><h3>Qui paiera ce \"dédommagement\"?</h3><p>Comme l'a expliqué Françoise Abad Gonzalez, ces 10 € par famille, soit 1,2 million d'euros proviendront du budget de Famiwal. Le budget total de cette structure publique est de 872 millions, <a href=\"https://vnexpress.net/\" target=\"_blank\">selon le président Charlier,</a>&nbsp;dont 28 millions servent au frais de fonctionnement. C'est donc de&nbsp;ces 28 millions que proviendra&nbsp;ce 1,2 million de dédommagement. La facture est donc, au final, publique, ce sont les Wallons et Wallonnes qui&nbsp;<em>in fine</em> paieront la facture.</p>",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    },
-    {
-      "id": 2,
-      "title": "Adresse ambassade Belge",
-      "content": "<h1>Adresse ambassade Belge</h1><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <a href=\"https://www.allure.com/\" target=\"_blank\">It has survived not only five centuries</a>, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    },
-    {
-      "id": 3,
-      "title": "Documents requis",
-      "content": "<h1>Documents requis</h1><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. <a href=\"https://www.proximus.be/\" target=\"_blank\">Various versions have evolved over the years</a>, sometimes by accident, sometimes on purpose (injected humour and the like).</p>",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    }
-  ]
+  }
 }
