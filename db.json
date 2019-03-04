@@ -2,8 +2,8 @@
   "trips": {
     "trips": [
       {
-        "fromDate": 1547535344519,
-        "toDate": 1547535344519,
+        "fromDate": 1547535344800,
+        "toDate": 1547535345000,
         "destinations": [
           {
             "countryCode": "84"
@@ -32,7 +32,7 @@
       },
       {
         "fromDate": 1547535344519,
-        "toDate": 1547535344519,
+        "toDate": 1547535344619,
         "destinations": [
           {
             "countryCode": "33"
