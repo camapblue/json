@@ -2,8 +2,37 @@
   "trips": {
     "trips": [
       {
-        "fromDate": 1547535344800,
-        "toDate": 1547535345000,
+        "fromDate": 1551686925055,
+        "toDate": 1551696925055,
+        "destinations": [
+          {
+            "countryCode": "84"
+          },
+          {
+            "countryCode": "33"
+          }
+        ],
+        "companions": [
+          {
+            "id": "12",
+            "firstName": "Will",
+            "lastName": "Smith"
+          },
+          {
+            "id": "13",
+            "firstName": "Nicolas",
+            "lastName": "Cage"
+          }
+        ],
+        "contact": {
+          "id": "123",
+          "firstName": "Tom",
+          "lastName": "Cruise"
+        }
+      },
+           {
+        "fromDate": 1551886925055,
+        "toDate": 1551986925055,
         "destinations": [
           {
             "countryCode": "84"
