@@ -2,6 +2,7 @@
   "trips": {
     "trips": [
       {
+        "tripName":"Tet Holliday",
         "fromDate": 1551686925055,
         "toDate": 1551696925055,
         "destinations": [
@@ -31,6 +32,7 @@
         }
       },
            {
+         "tripName":"Company trip",
         "fromDate": 1551886925055,
         "toDate": 1551986925055,
         "destinations": [
@@ -60,6 +62,7 @@
         }
       },
       {
+        "tripName":"Tet Holliday",
         "fromDate": 1547535344519,
         "toDate": 1547535344619,
         "destinations": [
