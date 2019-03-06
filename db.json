@@ -91,7 +91,9 @@
           "lastName": "Lawrence"
         }
       }
-    ],
+    ]
+  },
+  "tripDestination": {
      "tripDestination":[
       {
         "countryCode": "84",
@@ -104,7 +106,7 @@
         "toDate": 1551696925055
       }
     ]
-  },
+  }
   "companions": {
     "companions": [
       {
