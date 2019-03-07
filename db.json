@@ -99,9 +99,13 @@
         "countryCode": "84",
         "countryName": "VietNam",
         "city":["HCMC, Ha Noi, Hue"],
-        "securityLevel": "High",
-        "legislationLevel": "High",
-        "countryFlag": "https://cdn.countryflags.com/thumbs/vietnam/flag-800.png",
+        "fromDate": 1551686925055,
+        "toDate": 1551696925055
+      },
+       {
+        "countryCode": "33",
+        "countryName": "Belgium",
+        "city":["Paris"],
         "fromDate": 1551686925055,
         "toDate": 1551696925055
       }
