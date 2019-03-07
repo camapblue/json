@@ -98,14 +98,14 @@
       {
         "countryCode": "84",
         "countryName": "VietNam",
-        "city":"HCMC",
+        "city": "HCMC",
         "fromDate": 1551686925055,
         "toDate": 1551696925055
       },
        {
         "countryCode": "33",
         "countryName": "France",
-        "city":"Paris",
+        "city": "Paris",
         "fromDate": 1551686925055,
         "toDate": 1551696925055
       }
