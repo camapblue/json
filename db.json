@@ -98,7 +98,7 @@
       {
         "countryCode": "84",
         "countryName": "VietNam",
-        "city":["HCMC, Ha Noi, Hue"],
+        "city":["HCMC", "Ha Noi", "Hue"],
         "fromDate": 1551686925055,
         "toDate": 1551696925055
       },
