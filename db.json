@@ -111,108 +111,54 @@
       }
     ]
   },
-  "companions": {
-    "companions": [
+  "GroupMember": {
+    "TravellerId": "8E981FDE-B41A-4F66-BDBD-0E4F22CA24AC",
+    "GroupMembers": [
       {
-        "id": 1,
-        "firstName": "Van Peperpotte",
-        "lastName": "Virigine",
-        "callingCode": "+1",
-        "mobile": "479653574",
-        "email": "virigine.vanp@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
+        "FirstName": "Van Peperpotte",
+        "LastName": "Virigine",
+        "Order": 1,
+        "Email": "example@google.com",
+        "NationalRegisterNumber": "78101746059",
+        "CallingCode": "+84",
+        "PhoneNumber": "412345678",
+        "RelationType": 3,
+        "Id": "BD868906-C606-4C14-B7E2-D09E332E61FD"
       },
       {
-        "id": 2,
-        "firstName": "Peter",
-        "lastName": "Pan",
-        "callingCode": "+84",
-        "mobile": "090987654",
-        "email": "peter.pan@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "createdAt": 1547989705,
-        "updatedAt": 1547989705
+        "FirstName": "Peter",
+        "LastName": "Pan",
+        "Order": 2,
+        "Email": "example@yahoo.com",
+        "NationalRegisterNumber": "12345678958",
+        "CallingCode": "+61",
+        "PhoneNumber": "412345679",
+        "RelationType": 3,
+        "Id": "BD868906-C606-4C14-B7E2-D09E332E6111"
       }
     ]
   },
-  "companion": [
-    {
-      "id": 1,
-      "firstName": "Van Peperpotte",
-      "lastName": "Virigine",
-      "callingCode": "+1",
-      "mobile": "479653574",
-      "email": "virigine.vanp@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    },
-    {
-      "id": 2,
-      "firstName": "Peter",
-      "lastName": "Pan",
-      "callingCode": "+84",
-      "mobile": "090987654",
-      "email": "peter.pan@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "createdAt": 1547989705,
-      "updatedAt": 1547989705
-    }
-  ],
-  "emergencyContacts": {
-    "emergencyContacts": [
+  "ContactPerson": {
+    "TravellerId": "8E981FDE-B41A-4F66-BDBD-0E4F22CA24AC",
+    "ContactPersons": [
       {
-        "id": 1,
-        "firstName": "Filippo",
-        "lastName": "Inzaghi",
-        "callingCode": "+1",
-        "mobile": "479653574",
-        "email": "filippo.inzaghi@gmail.com",
-        "userId": "aabbccdd-2233-3344-5566-1234567890az",
-        "nrn": "12345678958",
-        "createdAt": 1548432505,
-        "updatedAt": 1548436105
+        "FirstName": "Nano",
+        "LastName": "Lito",
+        "Order": 1,
+        "CallingCode": "+84",
+        "MobilePhone": "411111111",
+        "Phone": "4111111",
+        "Id": "BD868906-0000-4C14-B7E2-123E332E6111"
       },
       {
-        "id": 2,
-        "firstName": "Harry",
-        "lastName": "Won",
-        "callingCode": "+84",
-        "mobile": "479653574",
-        "email": "harrywon@gmail.com",
-        "userId": "aabbccdd-1122-3344-5566-1234567890az",
-        "nrn": "12345678958",
-        "createdAt": 1548032505,
-        "updatedAt": 1548036105
+        "FirstName": "Sagan",
+        "LastName": "Lab",
+        "Order": 1,
+        "CallingCode": "+61",
+        "MobilePhone": "422211111",
+        "Phone": "4333111",
+        "Id": "BD868906-1111-4C14-B7E2-345E332E6111"
       }
     ]
-  },
-  "emergencyContact": [
-    {
-      "id": 1,
-      "firstName": "Filippo",
-      "lastName": "Inzaghi",
-      "callingCode": "+1",
-      "mobile": "479653574",
-      "email": "filippo.inzaghi@gmail.com",
-      "userId": "aabbccdd-2233-3344-5566-1234567890az",
-      "nrn": "12345678958",
-      "createdAt": 1548432505,
-      "updatedAt": 1548436105
-    },
-    {
-      "id": 2,
-      "firstName": "Harry",
-      "lastName": "Won",
-      "callingCode": "+84",
-      "mobile": "479653574",
-      "email": "harrywon@gmail.com",
-      "userId": "aabbccdd-1122-3344-5566-1234567890az",
-      "nrn": "12345678958",
-      "createdAt": 1548032505,
-      "updatedAt": 1548036105
-    }
-  ]
+  }
 }
