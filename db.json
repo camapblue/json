@@ -3,8 +3,8 @@
     "trips": [
       {
         "tripName":"Tet Holliday",
-        "fromDate": 1551686925055,
-        "toDate": 1551696925055,
+        "fromDate": 1551687925055,
+        "toDate": 1551697925055,
         "destinations": [
           {
             "countryCode": "84"
@@ -33,8 +33,8 @@
       },
            {
          "tripName":"Company trip",
-        "fromDate": 1551886925055,
-        "toDate": 1551986925055,
+        "fromDate": 1551888925055,
+        "toDate": 1551988925055,
         "destinations": [
           {
             "countryCode": "84"
@@ -63,8 +63,8 @@
       },
       {
         "tripName":"Tet Holliday",
-        "fromDate": 1547535344519,
-        "toDate": 1547535344619,
+        "fromDate": 1547537344519,
+        "toDate": 1547537344619,
         "destinations": [
           {
             "countryCode": "33"
